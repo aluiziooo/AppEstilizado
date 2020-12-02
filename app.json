@@ -1,0 +1,12 @@
+{
+  "name": "AppEstilizado",
+  "displayName": "AppEstilizado",
+  "expo": {
+    "name": "AppEstilizado",
+    "slug": "AppEstilizado",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
